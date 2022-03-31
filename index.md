@@ -9,11 +9,10 @@ order: 1
 	<div class="container">
 		<h3 class="section-heading">@analogwgwhc</h3>
 		<p class="section-description">
-			A collection of photographs
+			A small collection of photographs
 		</p>
 		<div id="navbar-wrapper">
 			<div id="navbar">
-				<img id="brand" class="hide" src="{{ "/assets/img/logo.svg" | relative_url }}">
 				{% assign mypages = site.pages | where: "type", "parent" | sort: "order" %}
 				{% for page in mypages %}
 				<a class="button" href="{{ page.url | relative_url }}">{{ page.title }}</a>
