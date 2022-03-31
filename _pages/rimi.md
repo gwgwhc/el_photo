@@ -1,7 +1,7 @@
 ---
 title: Rimi
 layout: default
-description: The one with the bold black dress.
+description: subheader
 type: portrait
 order: 4
 ---
