@@ -12,6 +12,8 @@ collections_dir: series
 collections:
   home:
     output: true
+  images:
+    output: true
   trees:
     output: true
   faces:
