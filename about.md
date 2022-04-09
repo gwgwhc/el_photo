@@ -5,11 +5,6 @@ description: under construction
 type: parent
 order: 4
 ---
-<style>
-	div.container {
-		padding: 10px 200px;
-	}
-</style>
 
 <div class="section main">
 	<div class="container">
