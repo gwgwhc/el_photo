@@ -12,9 +12,9 @@ collections_dir: series
 collections:
   home:
     output: true
-  rimi:
+  trees:
     output: true
-  test:
+  faces:
     output: true
 
 markdown: kramdown
