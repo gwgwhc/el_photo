@@ -3,7 +3,7 @@ title: about
 layout: about
 description: under construction
 type: parent
-order: 3
+order: 4
 ---
 
 <div class="section main">

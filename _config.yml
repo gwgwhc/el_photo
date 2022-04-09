@@ -3,7 +3,7 @@ url: https://gwgwhc.github.io/
 baseurl: 
 
 author: George Hudson-Chang
-description: A small collection of photographs
+description: description of the project
 
 include: ['_pages']
 
@@ -13,6 +13,8 @@ collections:
   home:
     output: true
   rimi:
+    output: true
+  test:
     output: true
 
 markdown: kramdown
