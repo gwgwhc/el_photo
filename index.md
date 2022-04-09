@@ -8,9 +8,6 @@ order: 1
 <div class="section header">
 	<div class="container">
 		<h3 class="section-heading">@analogwgwhc</h3>
-		<p class="section-description">
-			A small collection of photographs
-		</p>
 		<div id="navbar-wrapper">
 			<div id="navbar">
 				{% assign mypages = site.pages | where: "type", "parent" | sort: "order" %}

@@ -1,9 +1,9 @@
 ---
 title: about
-layout: rest
+layout: about
 description: under construction
 type: parent
-order: 2
+order: 3
 ---
 
 <div class="section main">
