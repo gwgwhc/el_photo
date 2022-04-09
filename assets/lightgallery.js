@@ -10,13 +10,13 @@
 
         //'for jquery animation'
         easing: 'linear',
-        speed: 600,
+        speed: 1000,
         height: '100%',
         width: '100%',
         addClass: '',
         startClass: 'lg-start-zoom',
         backdropDuration: 150,
-        hideBarsDelay: 6000,
+        hideBarsDelay: 1000,
 
         useLeft: false,
 
