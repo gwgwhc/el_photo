@@ -5,7 +5,7 @@ baseurl:
 author: George Hudson-Chang
 description: description of the project
 
-include: ['_pages']
+# include: ['_pages']
 
 collections_dir: series
 
