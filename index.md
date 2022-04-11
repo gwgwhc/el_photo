@@ -5,20 +5,6 @@ type: parent
 order: 1
 ---
 
-<div class="section header">
-	<div class="container">
-		<h3 class="section-heading">@analogwgwhc</h3>
-		<div id="navbar-wrapper">
-			<div id="navbar">
-				{% assign mypages = site.pages | where: "type", "parent" | sort: "order" %}
-				{% for page in mypages %}
-				<a class="button" href="{{ page.url | relative_url }}">{{ page.title }}</a>
-				{% endfor %}
-			</div>
-		</div>
-	</div>
-</div>
-
 <div class="section main">
 	<div class="container">
 		<div class="row" id="gallery">
