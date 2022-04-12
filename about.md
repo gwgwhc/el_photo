@@ -8,8 +8,8 @@ order: 5
 
 <div class="section main">
 	<div class="container">
-		<p markdown="1" style="text-align: center;">
-I'm busy building this website from the template I stole from @SamD97 on github! Check back later when I'm done! I'm busy building this website from the template I stole from @SamD97 on github! Check back later when I'm done!I'm busy building this website from the template I stole from @SamD97 on github! Check back later when I'm done!I'm busy building this website from the template I stole from @SamD97 on github! Check back later when I'm done!I'm busy building this website from the template I stole from @SamD97 on github! Check back later when I'm done!
+		<p markdown="1" style="text-align: center; padding:75px 10px">
+Hi! I'm an amateur photographer currently studying for a PhD and I enjoy photography in my spare time. I'm currently based in Tokyo, Japan so feel free to contact me if you'd like a chat!
 		</p>
 	</div>
 </div>
