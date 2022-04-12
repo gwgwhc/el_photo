@@ -7,7 +7,7 @@ order: 1
 
 <div class="section header">
 	<div class="container">
-		<h3 class="section-heading">@analogwgwhc</h3>
+		<h2 class="section-heading">@analogwgwhc</h2>
 		<div id="navbar-wrapper">
 			<div id="navbar">
 				<!-- need to change this <a> so it only appears on mobile  -->
