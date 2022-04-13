@@ -17,14 +17,14 @@
 			<div class="one-half column">
 				{% for image in coll.files limit: l %}
 				<article class="thumb">
-					<img class="lozad u-max-full-width" data-src="{{ coll.label | append: '/' | append: image.name | relative_url }}" alt="{{ image.basename }}" data-placeholder-background="red"/>
+					<img class="lozad u-max-full-width" data-src="{{ coll.label | append: '/' | append: image.name | relative_url }}" alt="{{ image.basename }}" />
 				</article>
 				{% endfor %}
 			</div>
 			<div class="one-half column">
 				{% for image in coll.files offset: l %}
 				<article class="thumb">
-					<img class="lozad u-max-full-width" data-src="{{ coll.label | append: '/' | append: image.name | relative_url }}" alt="{{ image.basename }}" data-placeholder-background="red"/>
+					<img class="lozad u-max-full-width" data-src="{{ coll.label | append: '/' | append: image.name | relative_url }}" alt="{{ image.basename }}" />
 				</article>
 				{% endfor %}
 			</div>

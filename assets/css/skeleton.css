@@ -473,8 +473,8 @@ form {
 
 /* Thumb
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-/* .thumb {
-  min-height: 16em; } */
+.thumb {
+  min-height: 16em; }
 .thumb img {
   cursor: pointer; }
 .fade {
@@ -484,7 +484,7 @@ form {
 @keyframes fade {
   from {
     opacity: 0;
-    filter: blur(10px); }
+    filter: blur(5px); }
   to {
     opacity: 1; }
 }
