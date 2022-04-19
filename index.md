@@ -1,6 +1,6 @@
 ---
 title: home
-layout: index
+layout: home
 type: parent
 order: 1
 ---
