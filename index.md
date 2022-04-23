@@ -4,15 +4,13 @@ layout: home
 type: parent
 order: 1
 ---
-
+<!-- header: -->
 <div class="section header">
 	<div class="container">
 		<h2 class="section-heading">@analogwgwhc</h2>
 		<div id="navbar-wrapper">
-			<div id="navbar">
-				<!-- need to change this <a> so it only appears on mobile  -->
+			<div id="navbar" class="close">
 				<a onclick="menuExpand()"><img id="brand" class="hide" src="{{ "/assets/img/logo.svg" | relative_url }}"></a>
-				<!-- making buttons for pages: -->
 				{% assign mypages = site.pages | where: "type", "parent" | sort: "order" %}
 				{% for page in mypages %}
 				<a class="button" href="{{ page.url | relative_url }}">{{ page.title }}</a>
