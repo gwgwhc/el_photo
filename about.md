@@ -4,6 +4,7 @@ layout: about
 description: under construction
 type: parent
 order: 5
+permalink: /about
 ---
 
 <div class="section main">
