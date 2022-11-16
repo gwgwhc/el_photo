@@ -475,7 +475,7 @@ form {
 /* separate fade for navbar: */
 .navbar-fade {
   animation-name: fade;
-  animation-duration: 0.6s;
+  animation-duration: 0.3s;
 }
 @keyframes navbar-fade {
   from {
